@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 10
 
 
 DEFAULT_CATEGORY = "xunta"
-PAGE_EXCLUDES = ["html"]
+ARTICLE_EXCLUDES = ["html", "static"]
 PLUGIN_PATHS = ["/Users/gaojin/Documents/GitHub/pelican-plugins"]
 PLUGINS = [
     # "css-html-js-minify",
@@ -71,3 +71,7 @@ SOCIAL = (
     ("zhihu", "https://www.zhihu.com/people/igaojin"),
     ("weibo", "https://www.weibo.com/52kantu/home?wvr=5"),
 )
+
+STATIC_PATHS = ["static"]
+EXTRA_PATH_METADATA = {"static/404.html": {"path": "404.html"}}
+SIDEBAR_ON_LEFT = True
