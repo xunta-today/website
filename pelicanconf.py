@@ -64,7 +64,7 @@ I18N_TEMPLATES_LANG = "en"
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
 
-DIRECT_TEMPLATES = ["index", "archives", "search"]
+DIRECT_TEMPLATES = ["index", "tags", "categories", "authors", "archives", "search"]
 
 SOCIAL = (
     ("github", "http://github.com/jin10086/xunta2"),
