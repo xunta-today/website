@@ -39,4 +39,18 @@ DEFAULT_PAGINATION = 10
 DEFAULT_CATEGORY = "xunta"
 PAGE_EXCLUDES = ["html"]
 PLUGIN_PATHS = ["/Users/gaojin/Documents/GitHub/pelican-plugins"]
-PLUGINS = ["css-html-js-minify"]
+PLUGINS = ["css-html-js-minify","sitemap"]
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
