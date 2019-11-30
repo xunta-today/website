@@ -10,7 +10,7 @@ PATH = "content"
 
 TIMEZONE = "Asia/Shanghai"
 
-DEFAULT_LANG = "zh-CN"
+DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -39,7 +39,13 @@ DEFAULT_PAGINATION = 10
 DEFAULT_CATEGORY = "xunta"
 PAGE_EXCLUDES = ["html"]
 PLUGIN_PATHS = ["/Users/gaojin/Documents/GitHub/pelican-plugins"]
-PLUGINS = ["css-html-js-minify", "sitemap"]
+PLUGINS = [
+    # "css-html-js-minify",
+    "sitemap",
+    "i18n_subsites",
+    "related_posts",
+    "tipue_search",
+]
 
 SITEMAP = {
     "format": "xml",
@@ -48,3 +54,20 @@ SITEMAP = {
 }
 
 GOOGLE_ANALYTICS = "UA-153607218-1"
+
+
+THEME = "pelican-bootstrap3"
+JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
+I18N_TEMPLATES_LANG = "en"
+
+
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+
+
+DIRECT_TEMPLATES = ["index", "archives", "search"]
+
+SOCIAL = (
+    ("github", "http://github.com/jin10086/xunta2"),
+    ("zhihu", "https://www.zhihu.com/people/igaojin"),
+    ("weibo", "https://www.weibo.com/52kantu/home?wvr=5"),
+)
