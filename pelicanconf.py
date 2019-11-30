@@ -38,4 +38,5 @@ DEFAULT_PAGINATION = 10
 
 DEFAULT_CATEGORY = "xunta"
 PAGE_EXCLUDES = ["html"]
-PLUGINS = []
+PLUGIN_PATHS = ["/Users/gaojin/Documents/GitHub/pelican-plugins"]
+PLUGINS = ["css-html-js-minify"]
