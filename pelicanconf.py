@@ -66,11 +66,11 @@ DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
 DIRECT_TEMPLATES = ["index", "tags", "categories", "authors", "archives", "search"]
 
-SOCIAL = (
-    ("github", "http://github.com/jin10086/xunta2"),
-    ("zhihu", "https://www.zhihu.com/people/igaojin"),
-    ("weibo", "https://www.weibo.com/52kantu/home?wvr=5"),
-)
+# SOCIAL = (
+#     ("github", "http://github.com/jin10086/xunta2"),
+#     ("zhihu", "https://www.zhihu.com/people/igaojin"),
+#     ("weibo", "https://www.weibo.com/52kantu/home?wvr=5"),
+# )
 
 STATIC_PATHS = ["static"]
 EXTRA_PATH_METADATA = {"static/404.html": {"path": "404.html"}}
