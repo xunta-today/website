@@ -40,7 +40,7 @@ DEFAULT_CATEGORY = "xunta"
 ARTICLE_EXCLUDES = ["html", "static"]
 PLUGIN_PATHS = ["/Users/gaojin/Documents/GitHub/pelican-plugins"]
 PLUGINS = [
-    "css-html-js-minify",
+    # "css-html-js-minify",
     "sitemap",
     "i18n_subsites",
     "related_posts",
