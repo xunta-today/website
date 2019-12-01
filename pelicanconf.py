@@ -75,3 +75,5 @@ DIRECT_TEMPLATES = ["index", "tags", "categories", "authors", "archives", "searc
 STATIC_PATHS = ["static"]
 EXTRA_PATH_METADATA = {"static/404.html": {"path": "404.html"}}
 SIDEBAR_ON_LEFT = True
+ARCHIVES_SAVE_AS = "archives.html"
+DISPLAY_CATEGORIES_ON_MENU = False
