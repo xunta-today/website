@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = "GaoJin"
 SITENAME = "XunTA"
-SITEURL = ""
+SITEURL = "https://xunta.today"
 
 PATH = "content"
 
