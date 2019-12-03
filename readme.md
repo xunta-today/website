@@ -32,3 +32,9 @@
 ## 更新网站 
 
 `ghp-import output -b gh-pages -p -f -c xunta.today`
+
+## 使用github action 来自动部署
+
+配置在:https://github.com/xunta-today/website/blob/dev/.github/workflows/pythonapp.yml
+
+后续只要把文章丢进来就可有了
