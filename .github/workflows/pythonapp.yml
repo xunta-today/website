@@ -15,8 +15,9 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-    - name: Checkout submodules
-      uses: textbook/git-checkout-submodule-action@2.0.0
+    - name: submodules-init
+      uses: snickerbockers/submodules-init@v4
+      
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
