@@ -1,7 +1,9 @@
 name: Python application
 
-on: [push]
-
+on:
+  push:
+    branches:
+      - dev
 jobs:
   build:
 
