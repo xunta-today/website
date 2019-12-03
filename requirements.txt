@@ -2,3 +2,4 @@ ghp-import
 pelican
 Markdown
 invoke
+beautifulsoup4
