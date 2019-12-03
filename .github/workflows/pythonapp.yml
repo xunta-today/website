@@ -31,6 +31,7 @@ jobs:
       with:
         target_branch: gh-pages
         build_dir: output
+        fqdn: xunta.today
       env:
         GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
     
