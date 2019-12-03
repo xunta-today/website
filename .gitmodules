@@ -1,0 +1,6 @@
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = https://github.com/xunta-today/pelican-plugins
+[submodule "pelican-themes"]
+	path = pelican-themes
+	url = https://github.com/xunta-today/pelican-themes
