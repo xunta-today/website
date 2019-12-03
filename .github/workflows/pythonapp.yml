@@ -15,11 +15,22 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
+    - name: Checkout submodules
+      uses: textbook/git-checkout-submodule-action@2.0.0
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: build and deploy
+    - name: build 
       run: |
-        invoke rebuild
-        ghp-import output -b gh-pages -p -f -c xunta.today
+        pelican content -d -s pelicanconf.py -t pelican-themes/pelican-bootstrap3
+    - name: Deploy
+      if: success()
+      uses: crazy-max/ghaction-github-pages@v1
+      with:
+        target_branch: gh-pages
+        build_dir: outs
+      env:
+        GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
+    
+  
