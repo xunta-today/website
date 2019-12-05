@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-05T19:47:36-00:00</lastmod>
+<lastmod>2019-12-05T22:25:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-05T19:47:36-00:00</lastmod>
+<lastmod>2019-12-05T22:25:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-05T19:47:36-00:00</lastmod>
+<lastmod>2019-12-05T22:25:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-05T19:47:36-00:00</lastmod>
+<lastmod>2019-12-05T22:25:59-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【广西女】No.018|94年从事金融行业，毕业于荆楚理工学院，性格乐观、爽快、偶尔逗比的广西女孩.html</loc>
+<lastmod>2019-12-05T22:24:02+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -9854,14 +9861,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-04T22:48:28+08:06</lastmod>
+<lastmod>2019-12-05T22:24:02+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-04T22:48:28+08:06</lastmod>
+<lastmod>2019-12-05T22:24:02+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
