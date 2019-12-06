@@ -5,29 +5,71 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-05T22:25:59-00:00</lastmod>
+<lastmod>2019-12-06T21:29:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-05T22:25:59-00:00</lastmod>
+<lastmod>2019-12-06T21:29:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-05T22:25:59-00:00</lastmod>
+<lastmod>2019-12-06T21:29:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-05T22:25:59-00:00</lastmod>
+<lastmod>2019-12-06T21:29:10-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京】96年，毕业于黑龙江大学，前京东研发工程师，目前准备考研，温柔体贴细心，喜欢小动物，喜欢喝奶茶的黑龙江小哥.html</loc>
+<lastmod>2019-12-06T21:13:13+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【成都 | 上海】99年，四川传媒学院本科在读，喜欢小动物的河北妹子；86年，毕业于复旦大学，从事管理行业，活泼爱笑的上海妹子.html</loc>
+<lastmod>2019-12-06T21:13:13+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海女】NO.1546|94年清新耐看投行妹子，香港城大硕士，上海人，身材高挑，喜欢金融、钢琴、旅行.html</loc>
+<lastmod>2019-12-05T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【广州女】NO.1548|90年精致漂亮传媒品牌经理，湛江人，华师本科，古灵精怪，独立也小女生，人缘好，喜欢摄影和开心麻花.html</loc>
+<lastmod>2019-12-05T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【武汉女】NO.1545|90年清秀恬美建筑师妹子，德国卡塞尔大学硕士，本地人，积极独立正能量，喜欢健身、东野圭吾、旅行、摄影.html</loc>
+<lastmod>2019-12-05T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳男】NO.1547|90年身高179帅气身材好地产小哥，工程主管，热爱打球和健身，喜欢听音乐看书.html</loc>
+<lastmod>2019-12-05T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -9861,14 +9903,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-05T22:24:02+08:06</lastmod>
+<lastmod>2019-12-06T21:13:13+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-05T22:24:02+08:06</lastmod>
+<lastmod>2019-12-06T21:13:13+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
