@@ -44,7 +44,7 @@ PLUGINS = [
     "sitemap",
     "i18n_subsites",
     "related_posts",
-    "tipue_search",
+    # "tipue_search",
 ]
 
 SITEMAP = {
