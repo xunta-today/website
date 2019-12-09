@@ -5,29 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-08T20:27:15-00:00</lastmod>
+<lastmod>2019-12-09T21:25:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-08T20:27:15-00:00</lastmod>
+<lastmod>2019-12-09T21:25:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-08T20:27:15-00:00</lastmod>
+<lastmod>2019-12-09T21:25:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-08T20:27:15-00:00</lastmod>
+<lastmod>2019-12-09T21:25:58-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京 | 上海】90年，测试工程师，性格开朗有趣，喜欢健身和旅行的河南妹子；96年，毕业于长沙大学，爱旅行，爱唱歌的湖南妹子.html</loc>
+<lastmod>2019-12-09T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【杭州】93年，数据分析师，温柔体贴，幽默风趣，喜欢篮球和电竞的福建小哥.html</loc>
+<lastmod>2019-12-09T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -10477,14 +10491,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-07T22:33:00+08:06</lastmod>
+<lastmod>2019-12-09T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-07T22:33:00+08:06</lastmod>
+<lastmod>2019-12-09T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
