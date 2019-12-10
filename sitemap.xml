@@ -5,29 +5,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-09T21:25:58-00:00</lastmod>
+<lastmod>2019-12-10T21:34:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-09T21:25:58-00:00</lastmod>
+<lastmod>2019-12-10T21:34:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-09T21:25:58-00:00</lastmod>
+<lastmod>2019-12-10T21:34:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-09T21:25:58-00:00</lastmod>
+<lastmod>2019-12-10T21:34:22-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【广州男】NO.1559|89年身高179斯文高瘦创业小哥，温文尔雅，重感情，责任心强，挑战过50公里徒步，喜欢户外，看电影.html</loc>
+<lastmod>2019-12-09T22:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【杭州and衢州女】NO.1557|91年高颜值教师妹子，落落大方，脾气好，经商家庭，内心丰富有趣，喜欢跑步和游泳，爱看心理学书籍.html</loc>
+<lastmod>2019-12-09T22:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1558|90年端庄优雅咨询顾问妹子，西南财经大学毕业，擅长理财，逻辑思维强，爱旅行，爱整理房间，喜欢养花种绿植.html</loc>
+<lastmod>2019-12-09T22:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1560|92年颜值爆表学生小姐姐，米兰理工大学硕士在读，细节控，完美主义，对自己高要求，做饭吃饭小能手.html</loc>
+<lastmod>2019-12-09T22:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -41,6 +69,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【杭州】93年，数据分析师，温柔体贴，幽默风趣，喜欢篮球和电竞的福建小哥.html</loc>
 <lastmod>2019-12-09T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【辽宁女】No.019|00年沈阳职业技术学院在读学生，性格开朗，脑洞比较开，喜欢读书，运动的辽宁女孩一枚。.html</loc>
+<lastmod>2019-12-09T22:24:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -10491,14 +10526,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-09T21:13:00+08:06</lastmod>
+<lastmod>2019-12-09T22:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-09T21:13:00+08:06</lastmod>
+<lastmod>2019-12-09T22:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
