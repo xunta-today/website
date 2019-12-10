@@ -30,6 +30,7 @@
     <link href="https://xunta.today/theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="https://xunta.today/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://xunta.today/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
     <link rel="stylesheet" href="https://xunta.today/theme/css/style.css" type="text/css"/>
 
 
@@ -47,6 +48,11 @@ XunTA            </a>
             <ul class="nav navbar-nav">
             </ul>
             <ul class="nav navbar-nav navbar-right">
+              <li><span>
+                <form class="navbar-search" action="/search.html">
+                  <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
+                </form></span>
+              </li>
               <li><a href="https://xunta.today/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
