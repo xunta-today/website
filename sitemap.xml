@@ -5,29 +5,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-10T23:57:48-00:00</lastmod>
+<lastmod>2019-12-11T00:00:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-10T23:57:48-00:00</lastmod>
+<lastmod>2019-12-11T00:00:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-10T23:57:48-00:00</lastmod>
+<lastmod>2019-12-11T00:00:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-10T23:57:48-00:00</lastmod>
+<lastmod>2019-12-11T00:00:04-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京女】NO.1562|90高颜值爱笑数据分析师妹子，知名短视频社区工作，北科大硕士，高挑甜美，喜欢滑雪、看书.html</loc>
+<lastmod>2019-12-10T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1561|93年颜值能打BAT广告妹子，武汉人，典型双子座，细腻淡定兼直爽大方，喜欢做饭、旅行、游泳.html</loc>
+<lastmod>2019-12-10T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1563|92年高挑白皙设计师妹子，江苏人，乐观独立，直率善良，高中学画，喜欢球类运动、张韶涵、徒步.html</loc>
+<lastmod>2019-12-10T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳男】NO.1564|89年身高175稳重负责创业小哥，性格低调，既有事业心，又有家庭观念，关注政治经济，喜欢爬山自由行.html</loc>
+<lastmod>2019-12-10T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -10568,14 +10596,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-09T22:30:00+08:06</lastmod>
+<lastmod>2019-12-10T22:32:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-09T22:30:00+08:06</lastmod>
+<lastmod>2019-12-10T22:32:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
