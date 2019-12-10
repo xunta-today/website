@@ -5,6 +5,10 @@ from __future__ import unicode_literals
 AUTHOR = "GaoJin"
 SITENAME = "XunTA"
 SITEURL = "https://xunta.today"
+CDNSITEURL = (
+    "https://cdn.jsdelivr.net/gh/xunta-today/pelican-themes@master/pelican-bootstrap3"
+)
+THEME_STATIC_DIR = "static"
 
 PATH = "content"
 
