@@ -5,29 +5,71 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-11T00:50:34-00:00</lastmod>
+<lastmod>2019-12-11T23:39:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-11T00:50:34-00:00</lastmod>
+<lastmod>2019-12-11T23:39:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-11T00:50:34-00:00</lastmod>
+<lastmod>2019-12-11T23:39:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-11T00:50:34-00:00</lastmod>
+<lastmod>2019-12-11T23:39:33-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【广州and佛山男】NO.1567|87年身高178帅气实业总经理小哥，华南理工大学硕士，追求美感和生活品质，目标明确，喜欢突破自己.html</loc>
+<lastmod>2019-12-11T22:32:23+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳and珠海女】NO.1566|92年清秀可人商务小姐姐，就职于知名手机公司，注重健康，经常自己做饭，喜欢收纳，温柔体贴.html</loc>
+<lastmod>2019-12-11T22:32:23+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1565|95年高颜值咨询顾问妹子，真性情，潇洒自然，人缘好，爱玩爱闹，最爱唱歌.html</loc>
+<lastmod>2019-12-11T22:32:23+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海男】No.020|92年从事软件开发，毕业于复旦大学，性格开朗，热爱运动的男生.html</loc>
+<lastmod>2019-12-11T22:24:01+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【成都 | 成都】98年，系统实施顾问，性格随和温柔，喜欢手工的四川妹子；94年，老师，开朗乐观，喜欢看日剧的四川妹子.html</loc>
+<lastmod>2019-12-11T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【长沙】95年，毕业于湖南工商大学，Java开发，生活逗比工作严谨，喜欢弹吉他的湖南小哥.html</loc>
+<lastmod>2019-12-11T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -10596,14 +10638,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-10T22:32:00+08:06</lastmod>
+<lastmod>2019-12-11T22:32:23+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-10T22:32:00+08:06</lastmod>
+<lastmod>2019-12-11T22:32:23+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
