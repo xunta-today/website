@@ -5,29 +5,71 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-11T23:39:33-00:00</lastmod>
+<lastmod>2019-12-12T23:22:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-11T23:39:33-00:00</lastmod>
+<lastmod>2019-12-12T23:22:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-11T23:39:33-00:00</lastmod>
+<lastmod>2019-12-12T23:22:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-11T23:39:33-00:00</lastmod>
+<lastmod>2019-12-12T23:22:47-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京】94年，毕业于西安财经大学，开发工程师，成熟稳重，喜欢摄影的内蒙古小哥.html</loc>
+<lastmod>2019-12-12T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【南京 | 广州】00年，中国传媒大学南广学院本科在读，乐观善良的河南妹子；96年，数据助理，积极乐观，喜欢小动物的广东妹子.html</loc>
+<lastmod>2019-12-12T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海女】NO.1568|89年外资产品经理妹子，硕士，华东师范大学，年收入35w，身高158cm，温暖可爱阳光脾气好.html</loc>
+<lastmod>2019-12-12T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京女】NO.1570|95年互联网运营妹子，本科，辽宁工程技术大学，辽宁大连人，身高160cm，性格热心乐于助人.html</loc>
+<lastmod>2019-12-12T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1569|94年国企财务妹子，本科，广东财经大学华商学院，月收入1w，身高160cm，爱笑喜欢新鲜事物.html</loc>
+<lastmod>2019-12-12T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳男】NO.1571|89年身高173公务员小哥，本科，韶关学院，广东茂名人，温和脾气好的暖男.html</loc>
+<lastmod>2019-12-12T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -10638,14 +10680,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-11T22:32:23+08:06</lastmod>
+<lastmod>2019-12-12T22:33:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-11T22:32:23+08:06</lastmod>
+<lastmod>2019-12-12T22:33:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
