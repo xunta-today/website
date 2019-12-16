@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-16T21:57:49-00:00</lastmod>
+<lastmod>2019-12-16T22:28:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-16T21:57:49-00:00</lastmod>
+<lastmod>2019-12-16T22:28:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-16T21:57:49-00:00</lastmod>
+<lastmod>2019-12-16T22:28:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-16T21:57:49-00:00</lastmod>
+<lastmod>2019-12-16T22:28:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -55,6 +55,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【本周优秀青年汇总】一分钟了解20位北上广深等地的优秀单身青年.html</loc>
 <lastmod>2019-12-15T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【武汉女】No.022|93年从事财务，毕业于武汉工商学院，性格活泼、娇小可爱的武汉女孩.html</loc>
+<lastmod>2019-12-16T22:24:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -10764,14 +10771,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-16T21:13:00+08:06</lastmod>
+<lastmod>2019-12-16T22:24:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-16T21:13:00+08:06</lastmod>
+<lastmod>2019-12-16T22:24:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
