@@ -5,29 +5,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-15T19:29:20-00:00</lastmod>
+<lastmod>2019-12-16T21:57:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-15T19:29:20-00:00</lastmod>
+<lastmod>2019-12-16T21:57:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-15T19:29:20-00:00</lastmod>
+<lastmod>2019-12-16T21:57:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-15T19:29:20-00:00</lastmod>
+<lastmod>2019-12-16T21:57:49-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京】96年，全栈工程师，毕业于中国人民大学，性格温和好相处，喜欢运动和旅游的河南小哥.html</loc>
+<lastmod>2019-12-16T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【郑州 | 上海】95年，教师，喜欢唱歌，喜欢弹吉他和尤克里里的河南妹子；93年，银行职员，温柔细心，喜欢读书的山东妹子.html</loc>
+<lastmod>2019-12-16T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深爱小组】——甜甜.html</loc>
+<lastmod>2019-12-15T19:51:49+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【本周优秀青年汇总】一分钟了解20位北上广深等地的优秀单身青年.html</loc>
+<lastmod>2019-12-15T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -10736,14 +10764,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-14T21:41:23+08:06</lastmod>
+<lastmod>2019-12-16T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-14T21:41:23+08:06</lastmod>
+<lastmod>2019-12-16T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
