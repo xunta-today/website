@@ -5,29 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-16T22:28:44-00:00</lastmod>
+<lastmod>2019-12-18T11:02:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-16T22:28:44-00:00</lastmod>
+<lastmod>2019-12-18T11:02:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-16T22:28:44-00:00</lastmod>
+<lastmod>2019-12-18T11:02:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-16T22:28:44-00:00</lastmod>
+<lastmod>2019-12-18T11:02:36-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【武汉】98年，python工程师，性格随和，有时感性，有时理性，喜欢户外运动，喜欢看书和收藏书的湖北小哥.html</loc>
+<lastmod>2019-12-17T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【浙江 | 北京】95年，旅行顾问，喜欢拍照，会做一手好菜的浙江妹子；92年，财务主管，乐观爽朗，喜欢逛街的北京妹子.html</loc>
+<lastmod>2019-12-17T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -489,6 +503,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【深圳女】NO.1534|89年颜值爆表时尚买手小姐姐，新西兰留学归国，公务员家庭，喜欢看各种艺术展，有一只超帅的雪纳瑞.html</loc>
 <lastmod>2019-12-02T22:42:47+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上周优秀青年汇总】一分钟了解24位北上广深等地的优秀单身青年.html</loc>
+<lastmod>2019-12-02T21:12:54+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -10771,14 +10792,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-16T22:24:00+08:06</lastmod>
+<lastmod>2019-12-17T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-16T22:24:00+08:06</lastmod>
+<lastmod>2019-12-17T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
