@@ -5,29 +5,50 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-19T01:01:33-00:00</lastmod>
+<lastmod>2019-12-20T09:10:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-19T01:01:33-00:00</lastmod>
+<lastmod>2019-12-20T09:10:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-19T01:01:33-00:00</lastmod>
+<lastmod>2019-12-20T09:10:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-19T01:01:33-00:00</lastmod>
+<lastmod>2019-12-20T09:10:06-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海】91年，毕业于香港科技大学，目前在创业，性格温和幽默，喜欢锻炼和k歌的江苏小哥.html</loc>
+<lastmod>2019-12-19T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳 | 郑州】92年，教师，擅长瑜伽和尤克里里的山西妹子；89年，老师，性格简单，喜欢爬山的河南妹子.html</loc>
+<lastmod>2019-12-19T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/脱单故事 | 第一次畅聊，聊点什么呢.html</loc>
+<lastmod>2019-12-19T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -10799,14 +10820,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-18T22:24:00+08:06</lastmod>
+<lastmod>2019-12-19T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-18T22:24:00+08:06</lastmod>
+<lastmod>2019-12-19T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
