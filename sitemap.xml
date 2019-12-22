@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-22T08:57:06-00:00</lastmod>
+<lastmod>2019-12-22T23:41:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-22T08:57:06-00:00</lastmod>
+<lastmod>2019-12-22T23:41:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-22T08:57:06-00:00</lastmod>
+<lastmod>2019-12-22T23:41:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-22T08:57:06-00:00</lastmod>
+<lastmod>2019-12-22T23:41:56-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【本周优秀青年汇总】一分钟了解23位北上广深等地的优秀单身青年.html</loc>
+<lastmod>2019-12-22T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2309,13 +2316,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【广州】No.215 | 96年,从事运营,性格活泼但有点倔强,喜欢打球,喜欢骑车的广东小哥.html</loc>
 <lastmod>2019-10-21T21:13:03+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://xunta.today/【本周优秀青年汇总】一分钟了解23位北上广深等地的优秀单身青年.html</loc>
-<lastmod>2019-10-20T22:33:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -10995,14 +10995,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-21T22:44:24+08:06</lastmod>
+<lastmod>2019-12-22T22:32:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-21T22:44:24+08:06</lastmod>
+<lastmod>2019-12-22T22:32:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
