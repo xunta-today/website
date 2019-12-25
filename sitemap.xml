@@ -5,29 +5,78 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-24T10:12:01-00:00</lastmod>
+<lastmod>2019-12-25T22:21:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-24T10:12:01-00:00</lastmod>
+<lastmod>2019-12-25T22:21:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-24T10:12:01-00:00</lastmod>
+<lastmod>2019-12-25T22:21:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-24T10:12:01-00:00</lastmod>
+<lastmod>2019-12-25T22:21:14-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【成都 | 杭州】94年，会计师事务所审计，性格文静的四川妹子；92年，产品经理，喜欢画画的江西妹子.html</loc>
+<lastmod>2019-12-25T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【武汉】96年，软件开发工程师，性格随和，积极乐观，喜欢运动，会做饭的陕西小哥.html</loc>
+<lastmod>2019-12-25T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京 | 福建】95年，毕业于西安财经大学，数据处理工程师，喜欢锻炼的陕西妹子；90年，电商，为人随和，喜欢爬山的福建妹子.html</loc>
+<lastmod>2019-12-24T21:13:07+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳】89年，互联网AI工程师兼项目经理，性格细腻，脾气好，喜欢看书写作的湖南小哥.html</loc>
+<lastmod>2019-12-24T21:13:07+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海女】NO.1608|90年项目管理妹子，日本南山大学，本科，身高162cm，江西人，文静内敛，温暖随和.html</loc>
+<lastmod>2019-12-24T22:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【中山and惠州女】NO.1606|88年教师小姐姐，硕士，华南师范大学，身高160cm，惠州人，善良坦率，待人真诚.html</loc>
+<lastmod>2019-12-24T22:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【广州女】NO.1607|89年大区客户经理小姐姐，本科，江西科技学院，事业单位工作，身高158cm，河北人，性格好，情商高.html</loc>
+<lastmod>2019-12-24T22:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -11044,14 +11093,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-23T22:34:00+08:06</lastmod>
+<lastmod>2019-12-25T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-23T22:34:00+08:06</lastmod>
+<lastmod>2019-12-25T21:13:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
