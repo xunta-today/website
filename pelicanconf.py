@@ -34,7 +34,7 @@ AUTHOR_FEED_RSS = None
 # Social widget
 # SOCIAL = (("You can add links in your config file", "#"), ("Another social link", "#"))
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
@@ -47,7 +47,7 @@ PLUGINS = [
     # "css-html-js-minify",
     "sitemap",
     "i18n_subsites",
-    "related_posts",
+    # "related_posts",
     "tipue_search",
     "neighbors",
 ]
