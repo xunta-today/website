@@ -5,29 +5,64 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-25T22:25:27-00:00</lastmod>
+<lastmod>2019-12-26T21:34:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-25T22:25:27-00:00</lastmod>
+<lastmod>2019-12-26T21:34:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-25T22:25:27-00:00</lastmod>
+<lastmod>2019-12-26T21:34:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-25T22:25:27-00:00</lastmod>
+<lastmod>2019-12-26T21:34:10-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【广西女】No.026|85年从事客服行业，毕业于广西民族大学，热爱运动，多才多艺的广西女孩.html</loc>
+<lastmod>2019-12-25T22:24:01+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京and广州女】NO.1610|89年律师小姐姐，硕士，美国波士顿大学，广州小康家庭，“贪玩”的好孩子.html</loc>
+<lastmod>2019-12-25T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京女】NO.1609|93年电视台主持人，浙江传媒学院本科，哈尔滨人，父母公务员，身高176，乐观爱笑.html</loc>
+<lastmod>2019-12-25T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京男】NO.1612|82年身高177小米研发经理，台湾人，硕士，国立台北科技大学，热爱生活，学习能力强，喜欢做饭弹钢琴健身.html</loc>
+<lastmod>2019-12-25T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1611|86年上市券商高管妹子，本科，高知家庭，孝顺善良、单纯随和，喜欢独立思考.html</loc>
+<lastmod>2019-12-25T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -529,6 +564,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 037期｜妹子｜上海.html</loc>
+<lastmod>2019-12-11T16:03:57+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【北京女】NO.1562|90高颜值爱笑数据分析师妹子，知名短视频社区工作，北科大硕士，高挑甜美，喜欢滑雪、看书.html</loc>
 <lastmod>2019-12-10T22:32:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -552,6 +594,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【深圳男】NO.1564|89年身高175稳重负责创业小哥，性格低调，既有事业心，又有家庭观念，关注政治经济，喜欢爬山自由行.html</loc>
 <lastmod>2019-12-10T22:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 036期｜妹子｜张家口.html</loc>
+<lastmod>2019-12-10T15:50:31+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -683,6 +732,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 035期｜妹子｜杭州.html</loc>
+<lastmod>2019-12-06T11:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【上海女】NO.1546|94年清新耐看投行妹子，香港城大硕士，上海人，身材高挑，喜欢金融、钢琴、旅行.html</loc>
 <lastmod>2019-12-05T22:32:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -783,6 +839,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【石家庄 | 上海】93年，游戏界面设计，外向活泼的河北妹子；94年，可静可动，唱歌好听的湖北妹子.html</loc>
 <lastmod>2019-12-03T21:13:08+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 034期｜妹子｜成都.html</loc>
+<lastmod>2019-12-03T17:08:33+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1194,6 +1257,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 033期｜妹子｜佛山.html</loc>
+<lastmod>2019-11-26T12:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【北京女】NO.1507|90年漂亮温和影视宣传经理妹子,美国南加州大学硕士,在美读高中,北京人,斯文内敛,会大提琴、尤克里里.html</loc>
 <lastmod>2019-11-25T22:38:32+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -1355,6 +1425,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 032期｜妹子｜青岛.html</loc>
+<lastmod>2019-11-22T17:06:46+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【北京女】NO.1496|93年高挑高颜值商拓妹子,美国罗切斯特大学硕士,人工智能公司,洒脱独立不情绪化,喜欢赏析电影,爱好摄影.html</loc>
 <lastmod>2019-11-21T22:58:13+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -1397,6 +1474,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 031期｜妹子｜上海.html</loc>
+<lastmod>2019-11-21T17:42:26+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【北京男】NO.1494|84年成熟直率咨询顾问小哥,中国人民大学硕士在读,有责任心,随和善良,喜欢户外运动.html</loc>
 <lastmod>2019-11-20T22:58:07+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -1434,6 +1518,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【浙江】95年,Java开发,正直善良,喜欢旅游和唱歌,偶尔做饭,喜欢写代码的杭州小哥.html</loc>
 <lastmod>2019-11-20T21:13:05+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 030期｜妹子｜济南.html</loc>
+<lastmod>2019-11-20T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1579,6 +1670,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 029期｜妹子｜杭州.html</loc>
+<lastmod>2019-11-15T10:50:26+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【上海女】NO.1468|92年貌美高挑翻译妹子,上海外国语大学毕业,上海本地人,父亲经商,喜欢阅读看展,性格温柔独立.html</loc>
 <lastmod>2019-11-14T22:38:17+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -1693,6 +1791,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【广州】94年,开发工程师,随和好相处,正在学做菜,喜欢看哲学和技术类书籍的广东小哥.html</loc>
 <lastmod>2019-11-12T21:13:05+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 028期｜妹子｜上海.html</loc>
+<lastmod>2019-11-12T18:18:46+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1824,6 +1929,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 027期｜妹子｜杭州.html</loc>
+<lastmod>2019-11-08T17:27:36+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【上海男】NO.1448|89年积极上进电气工程师小哥,华中科技大学硕士,央企工作,上海本地人,曾获省部级荣誉,热心公益.html</loc>
 <lastmod>2019-11-07T23:56:44+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -1908,6 +2020,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 026期｜妹子｜上海.html</loc>
+<lastmod>2019-11-07T08:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【深圳女】NO.1441|92年高颜值运营妹子,美国读高中,阿拉巴马大学毕业归国,深圳本地人,既古典又可爱,会钢琴、古筝舞蹈.html</loc>
 <lastmod>2019-11-05T23:43:58+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -1938,6 +2057,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【福建】No.236 | 95年,英语培训机构教师,外冷内热,为人真诚,喜欢听英文歌,偶尔会去K歌,喜欢煮饭的福建妹子.html</loc>
 <lastmod>2019-11-05T21:13:08+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 025期｜妹子｜重庆.html</loc>
+<lastmod>2019-11-05T17:03:33+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2090,6 +2216,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 023期｜妹子｜苏州.html</loc>
+<lastmod>2019-10-31T18:17:55+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【北京女】NO.1426|88年清丽温婉高校教师小姐姐,巴黎第三大学博士,高知家庭,喜欢看电影,逛博物馆.html</loc>
 <lastmod>2019-10-30T23:24:49+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -2113,6 +2246,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【香港女】NO.1427|87年开朗浪漫金融小姐姐,香港科技大学硕士,喜欢挑战,每天阅读,有CFA和FRM证书,每周定期跳舞.html</loc>
 <lastmod>2019-10-30T23:24:49+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 022期｜妹子｜深圳.html</loc>
+<lastmod>2019-10-30T17:47:57+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2148,6 +2288,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【武汉】No.226 | 96年,美团点评售后,喜欢烘焙和研究美食,偶尔健身,比较文艺的湖北妹子.html</loc>
 <lastmod>2019-10-29T21:12:59+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 021期｜妹子｜北京.html</loc>
+<lastmod>2019-10-29T11:46:16+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2321,6 +2468,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 020期｜妹子｜广州.html</loc>
+<lastmod>2019-10-24T16:18:33+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【北京女】NO.1402|91年高颜值教师妹子,中央民族大学硕士,公立中学英语老师,有一双小鹿般圆圆的眼睛,善解人意.html</loc>
 <lastmod>2019-10-23T22:41:09+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -2351,6 +2505,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【上海】No.219 | 83年,毕业于华东理工,从事软件测试,会点日语,喜欢听歌,喜欢猫咪的上海小哥.html</loc>
 <lastmod>2019-10-23T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 019期｜妹子｜厦门.html</loc>
+<lastmod>2019-10-23T08:59:36+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2475,6 +2636,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 018期｜妹子｜温州.html</loc>
+<lastmod>2019-10-18T15:32:14+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【200】【成都】武汉理工毕业,培训机构工作,川妹子.html</loc>
 <lastmod>2019-10-17T22:41:44+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -2582,6 +2750,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【成都】No.208 | 97年,毕业于西南大学,喜欢逛街玩桌游的四川妹子.html</loc>
 <lastmod>2019-10-15T21:13:09+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 017期｜妹子｜北京.html</loc>
+<lastmod>2019-10-15T14:40:57+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2965,6 +3140,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 016期｜妹子｜济南.html</loc>
+<lastmod>2019-09-30T12:00:44+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【上海男】NO.1331|95年真诚细腻数据分析师,斜杠青年,运营技术类头部大号,出版过书籍,文采好,特别期待爱情婚姻.html</loc>
 <lastmod>2019-09-29T21:36:11+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -3105,6 +3287,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 015期｜妹子｜上海.html</loc>
+<lastmod>2019-09-24T15:31:07+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【深圳女】NO.1318|86年貌美高挑银行妹子,西南大学硕士,直爽大方的北方姑娘,父母国企退休,爱运动尤其游泳.html</loc>
 <lastmod>2019-09-23T23:32:05+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -3219,6 +3408,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【深圳】No.175 | 95年,软件开发工程师,喜欢健身,偶尔游泳,做事认真有规划的广西小哥.html</loc>
 <lastmod>2019-09-18T21:13:50+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 014期｜妹子｜广州.html</loc>
+<lastmod>2019-09-18T11:45:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3364,6 +3560,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 013期｜妹子｜武汉.html</loc>
+<lastmod>2019-09-12T11:45:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【北京女】NO.1292|92年文艺有趣的航空后勤妹子,就职于厦门航空,热爱生活,积极爱笑,尊重各种文化差异.html</loc>
 <lastmod>2019-09-12T00:01:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -3443,6 +3646,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【北京】No.165 | 93年,携程前端开发,爱运动,喜欢动漫,性格随和,会换位思考,爱看相声的山西小哥.html</loc>
 <lastmod>2019-09-10T21:13:54+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 012期｜妹子｜重庆.html</loc>
+<lastmod>2019-09-10T11:50:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3555,6 +3765,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【深圳男】NO.1273|91年温和沉稳公务员小哥,北京大学博士,待人真诚,有点完美主义,擅长羽毛球、足球、长跑.html</loc>
 <lastmod>2019-09-06T21:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 011期｜妹子｜帝都.html</loc>
+<lastmod>2019-09-06T11:50:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3742,6 +3959,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 010期｜妹子｜魔都.html</loc>
+<lastmod>2019-09-02T17:27:08+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【本周优秀青年汇总】一分钟了解30位北上广深等地的单身青年.html</loc>
 <lastmod>2019-09-01T21:33:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -3861,6 +4085,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 009期｜妹子｜深圳.html</loc>
+<lastmod>2019-08-29T11:52:52+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【北京】No.149 | 94年,python开发工程师,脾气好,性格偏安静,平时爱看看书或者电影的湖北小哥.html</loc>
 <lastmod>2019-08-28T21:13:25+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -3940,6 +4171,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【重庆女】NO.1230|95年清秀可人项目管理妹子,外形甜美个性耿直,独生女,父亲银行母亲社区,喜欢吃喝玩乐一条龙.html</loc>
 <lastmod>2019-08-27T21:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 008期｜妹子｜长沙.html</loc>
+<lastmod>2019-08-27T11:50:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4085,6 +4323,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 007期｜妹子｜魔都.html</loc>
+<lastmod>2019-08-23T11:46:20+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【上海】No.140 | 91年,美团系统运营,爱玩桌游,会绘画,性格温柔活泼,爱看实用类书籍,有上海户口河北妹子.html</loc>
 <lastmod>2019-08-22T21:13:06+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -4129,6 +4374,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【苏州男】NO.1210|92年帅气逗比项目管理小哥,随和慢热金牛座,喜欢享受生活、看电影,偶尔玩手游、打麻将.html</loc>
 <lastmod>2019-08-22T21:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 006期｜妹子｜日本.html</loc>
+<lastmod>2019-08-22T11:59:32+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4220,6 +4472,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【深圳女】NO.1197|89年盘正条顺西班牙海归妹子,知名媒体工作,体制内家庭,已在深购房,慢性子,喜欢有趣事物,标准吃货.html</loc>
 <lastmod>2019-08-20T21:34:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 005期｜妹子｜深圳.html</loc>
+<lastmod>2019-08-20T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4365,6 +4624,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://xunta.today/程序员soul 004期｜妹子｜魔都.html</loc>
+<lastmod>2019-08-16T12:01:15+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://xunta.today/【北京】No.130 | 92年,数据分析师,河工大毕业,爱阅读,爱运动,会一点尤克里里,喜欢猫,风趣幽默的河北妹子.html</loc>
 <lastmod>2019-08-15T21:14:36+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -4451,6 +4717,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://xunta.today/【南宁】No.126 | 97年,从事医护行业,性格活泼,懂摄影,会素描,衣品不错,身材高挑,爱吃辣的广西妹子.html</loc>
 <lastmod>2019-08-13T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/程序员soul 003期｜妹子｜魔都.html</loc>
+<lastmod>2019-08-14T08:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -11093,14 +11366,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-25T21:13:00+08:06</lastmod>
+<lastmod>2019-12-25T22:33:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-25T21:13:00+08:06</lastmod>
+<lastmod>2019-12-25T22:33:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
