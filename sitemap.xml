@@ -5,29 +5,78 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2019-12-31T18:18:21-00:00</lastmod>
+<lastmod>2020-01-01T09:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2019-12-31T18:18:21-00:00</lastmod>
+<lastmod>2020-01-01T09:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2019-12-31T18:18:21-00:00</lastmod>
+<lastmod>2020-01-01T09:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2019-12-31T18:18:21-00:00</lastmod>
+<lastmod>2020-01-01T09:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【优秀青年汇总】带你一分钟了解往期优秀单身男女青年.html</loc>
+<lastmod>2019-12-31T22:24:01+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【1990奔三专列】90年优秀单身女生精选合辑.html</loc>
+<lastmod>2019-12-31T22:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【1990奔三专列】90年优秀单身男生精选合辑.html</loc>
+<lastmod>2019-12-31T22:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/跨年脱单专场 | 川渝武汉.html</loc>
+<lastmod>2019-12-31T21:13:17+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/跨年脱单专场 | 帝都北京.html</loc>
+<lastmod>2019-12-31T21:13:17+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/跨年脱单专场 | 深圳广州.html</loc>
+<lastmod>2019-12-31T21:13:17+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/跨年脱单专场 | 魔都上海.html</loc>
+<lastmod>2019-12-31T21:13:17+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -11520,14 +11569,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-30T22:33:00+08:06</lastmod>
+<lastmod>2019-12-31T22:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-30T22:33:00+08:06</lastmod>
+<lastmod>2019-12-31T22:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
