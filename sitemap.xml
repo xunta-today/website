@@ -5,29 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2020-01-01T09:52:29-00:00</lastmod>
+<lastmod>2020-01-02T20:59:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2020-01-01T09:52:29-00:00</lastmod>
+<lastmod>2020-01-02T20:59:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2020-01-01T09:52:29-00:00</lastmod>
+<lastmod>2020-01-02T20:59:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2020-01-01T09:52:29-00:00</lastmod>
+<lastmod>2020-01-02T20:59:29-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1628|94年商务妹子，学习美术多年，拿过全国一等奖，喜欢滑雪健身游泳，希望跟热爱美食的人一起分享生活.html</loc>
+<lastmod>2020-01-01T22:34:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【重庆and深圳女】NO.1629 | 93年产品经理妹子，中山大学本科，重庆小辣椒，独立开朗，活泼可爱，喜欢喝咖啡和运动.html</loc>
+<lastmod>2020-01-01T22:34:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -11569,14 +11583,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2019-12-31T22:30:00+08:06</lastmod>
+<lastmod>2020-01-01T22:34:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2019-12-31T22:30:00+08:06</lastmod>
+<lastmod>2020-01-01T22:34:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
