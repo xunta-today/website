@@ -5,29 +5,85 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2020-01-06T00:08:26-00:00</lastmod>
+<lastmod>2020-01-07T00:08:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2020-01-06T00:08:26-00:00</lastmod>
+<lastmod>2020-01-07T00:08:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2020-01-06T00:08:26-00:00</lastmod>
+<lastmod>2020-01-07T00:08:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2020-01-06T00:08:26-00:00</lastmod>
+<lastmod>2020-01-07T00:08:13-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【河北女】No.029|01年翻译专业，张家口学院大一在校生，性格随和、好相处，是一位吃货型河北女孩.html</loc>
+<lastmod>2020-01-06T22:24:01+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海男】NO.1641|96年身高175投资小哥，本科，浙江金华人，喜欢研究投资and健身and看书and电影and做饭and逛展and音乐and摄影.html</loc>
+<lastmod>2020-01-06T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1640|88年古筝老师妹子，自营音乐培训工作室，喜欢弹琴、跳舞、画画，温柔真诚善良，喜欢孩子，上进有责任心.html</loc>
+<lastmod>2020-01-06T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1642|92年猎头公司合伙人妹子，本科，高挑耐看，活泼开朗，热爱学习，工作时会很拼，玩起来也会很嗨.html</loc>
+<lastmod>2020-01-06T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【郑州女】NO.1643|84年银行小姐姐，硕士，华东师范大学，性格较宅，喜欢看书看电影听音乐、健身打球.html</loc>
+<lastmod>2020-01-06T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京】No.340 | 24岁，毕业于普渡大学，后端开发，性格内向，喜欢看动漫和看书的北京小哥.html</loc>
+<lastmod>2020-01-06T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【郑州】No.339 | 93年，博士在读，温柔大方，可可爱爱，喜欢潜水，喜欢不同文化的山西妹子.html</loc>
+<lastmod>2020-01-06T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深爱小组】小姐姐推荐——佳佳.html</loc>
+<lastmod>2020-01-06T00:24:22+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -11681,14 +11737,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2020-01-04T22:30:00+08:06</lastmod>
+<lastmod>2020-01-06T22:33:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2020-01-04T22:30:00+08:06</lastmod>
+<lastmod>2020-01-06T22:33:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
