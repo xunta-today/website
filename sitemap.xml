@@ -5,29 +5,64 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2020-01-11T00:21:46-00:00</lastmod>
+<lastmod>2020-01-13T00:58:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2020-01-11T00:21:46-00:00</lastmod>
+<lastmod>2020-01-13T00:58:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2020-01-11T00:21:46-00:00</lastmod>
+<lastmod>2020-01-13T00:58:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2020-01-11T00:21:46-00:00</lastmod>
+<lastmod>2020-01-13T00:58:42-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【207】【武汉】武大在职硕士，公务员，爱健身的妹子.html</loc>
+<lastmod>2020-01-11T23:11:53+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海女】NO.1662|92年乖巧理性大学教师小姐姐，中国人民公安大学博士，山东人，身高168，喜欢看悬疑推理剧.html</loc>
+<lastmod>2020-01-11T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京女】NO.1663|88年温柔可爱金融小姐姐，本科，北京工商大学，北京人，爷爷奶奶是清华老师，逗比可爱，喜欢拍照.html</loc>
+<lastmod>2020-01-11T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1661|91年漂亮有气质法务妹子，硕士，加利福尼亚大学伯克利分校，深圳长大，家境良好，走过20多国家，包容心强.html</loc>
+<lastmod>2020-01-11T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳男】NO.1664|85年外企高管小哥，身高180cm，就职于世界500强知名外企，比利时根特管理学院硕士.html</loc>
+<lastmod>2020-01-11T22:33:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -11905,14 +11940,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2020-01-10T22:33:00+08:06</lastmod>
+<lastmod>2020-01-11T23:11:53+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2020-01-10T22:33:00+08:06</lastmod>
+<lastmod>2020-01-11T23:11:53+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
