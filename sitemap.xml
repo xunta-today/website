@@ -5,29 +5,106 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2020-01-28T22:58:23-00:00</lastmod>
+<lastmod>2020-01-31T21:18:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2020-01-28T22:58:23-00:00</lastmod>
+<lastmod>2020-01-31T21:18:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2020-01-28T22:58:23-00:00</lastmod>
+<lastmod>2020-01-31T21:18:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2020-01-28T22:58:23-00:00</lastmod>
+<lastmod>2020-01-31T21:18:31-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海】No.377 | 92年，毕业于利物浦大学，金融企业HR，活泼开朗，喜欢音乐和健身的上海妹子.html</loc>
+<lastmod>2020-01-31T21:13:04+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北京】No.378 | 94年，游戏开发程序员，阳光开朗，喜欢运动的新疆小哥.html</loc>
+<lastmod>2020-01-31T21:13:04+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【佛山and广州and深圳and江苏女】NO.1722|92年高挑高颜值文化传媒妹子，四川音乐学院毕业，心地善良柔软，喜欢滑雪、听演唱会.html</loc>
+<lastmod>2020-01-30T21:34:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳女】NO.1724|96年颜值爆表创业妹子，时间自由，房车已有，温柔乐观，热情淘气超爱笑，懂得经营生活.html</loc>
+<lastmod>2020-01-30T21:34:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海】No.376 | 96年，前端开发工程师，性格可高冷可逗比，喜欢逛街，喜欢摄影的陕西小哥.html</loc>
+<lastmod>2020-01-30T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【湖南】No.375 | 94年，高中语文老师，性格温和随性，偶尔看书，喜欢玩游戏的湖南妹子.html</loc>
+<lastmod>2020-01-30T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【北上广深and长沙女】NO.1719|90年漂亮聪慧国企妹子，英国布鲁奈尔大学硕士，善于学习，生存能力强，坚持打羽毛球20年.html</loc>
+<lastmod>2020-01-29T22:42:51+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【广州女】NO.1720|92年高颜值培训经理妹子，甜美可爱，活泼爱笑，喜欢做饭厨艺好、玩王者、喜欢美妆.html</loc>
+<lastmod>2020-01-29T22:42:51+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳男】NO.1721|92年身高184阳光热情副经理小哥，东北农业大学毕业，就职于知名地产公司，喜欢钻研魔术，喜欢现场看足球.html</loc>
+<lastmod>2020-01-29T22:42:51+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【上海】No.374 | 94年，毕业于北京理工大学，算法工程师，性格安静，喜欢看书的江西小哥.html</loc>
+<lastmod>2020-01-29T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【浙江】No.373 | 96年，诺丁汉大学硕士在读，沉稳乐观，喜欢化妆，喜欢小动物，爱好运动的浙江妹子.html</loc>
+<lastmod>2020-01-29T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -12472,14 +12549,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2020-01-28T21:59:33+08:06</lastmod>
+<lastmod>2020-01-31T21:13:04+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2020-01-28T21:59:33+08:06</lastmod>
+<lastmod>2020-01-31T21:13:04+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
