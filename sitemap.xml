@@ -5,29 +5,50 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/</loc>
-<lastmod>2020-02-13T23:27:14-00:00</lastmod>
+<lastmod>2020-02-15T01:34:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/archives.html</loc>
-<lastmod>2020-02-13T23:27:14-00:00</lastmod>
+<lastmod>2020-02-15T01:34:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/tags.html</loc>
-<lastmod>2020-02-13T23:27:14-00:00</lastmod>
+<lastmod>2020-02-15T01:34:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/categories.html</loc>
-<lastmod>2020-02-13T23:27:14-00:00</lastmod>
+<lastmod>2020-02-15T01:34:56-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【吉林女】No.040|90年毕业于琼台师范学院，从事市场工作，是一位性格开朗，热爱写作的女孩.html</loc>
+<lastmod>2020-02-14T22:24:02+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【深圳】No.394 | 97年，会计，性格安静，偶尔活泼，喜欢摄影和跑步的湖南妹子.html</loc>
+<lastmod>2020-02-14T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://xunta.today/【长沙】No.395 | 95年，国防科技大学硕士，人工智能算法工程师，成熟稳重，喜欢健身的湖南小哥.html</loc>
+<lastmod>2020-02-14T21:13:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -12997,14 +13018,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://xunta.today/category/xunta.html</loc>
-<lastmod>2020-02-13T22:33:00+08:06</lastmod>
+<lastmod>2020-02-14T22:24:02+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://xunta.today/author/gaojin.html</loc>
-<lastmod>2020-02-13T22:33:00+08:06</lastmod>
+<lastmod>2020-02-14T22:24:02+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
